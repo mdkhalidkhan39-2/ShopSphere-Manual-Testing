@@ -46,7 +46,7 @@ ShopSphere-Manual-Testing/
 | Browser | [Firefox, version] |
 | Operating System | [Ubuntu] |
 | Test Dates | [25-11-2026] |
-| Tester | [Md Khalid Khan] |
+| Tester | Md Khalid Khan |
 
 ## Testing Approach
 - Test scenarios were derived from the assignment requirements and business rules.
